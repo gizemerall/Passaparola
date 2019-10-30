@@ -1,0 +1,9 @@
+C:\Users\gizem\source\repos\Passaparola\bin\Debug\Passaparola.exe.config
+C:\Users\gizem\source\repos\Passaparola\bin\Debug\Passaparola.exe
+C:\Users\gizem\source\repos\Passaparola\bin\Debug\Passaparola.pdb
+C:\Users\gizem\source\repos\Passaparola\obj\Debug\Passaparola.csprojAssemblyReference.cache
+C:\Users\gizem\source\repos\Passaparola\obj\Debug\Passaparola.Form1.resources
+C:\Users\gizem\source\repos\Passaparola\obj\Debug\Passaparola.Properties.Resources.resources
+C:\Users\gizem\source\repos\Passaparola\obj\Debug\Passaparola.csproj.GenerateResource.cache
+C:\Users\gizem\source\repos\Passaparola\obj\Debug\Passaparola.exe
+C:\Users\gizem\source\repos\Passaparola\obj\Debug\Passaparola.pdb
